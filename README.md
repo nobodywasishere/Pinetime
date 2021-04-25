@@ -12,7 +12,7 @@
 The **Pinetime** smartwatch is built around the NRF52832 MCU (512KB Flash, 64KB RAM), a 240*240 LCD display driven by the ST7789 controller, an accelerometer, a heart rate sensor, and a vibration motor.
 
 # InfiniTime
-![InfiniTime logo](images/infinitime-logo.jpg "InfiniTime Logo")
+![InfiniTime logo](images/logo.svg "InfiniTime Logo")
 
 The goal of this project is to design an open-source firmware for the Pinetime smartwatch : 
 
